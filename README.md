@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexanderLago
-- 👀 I’m interested in Data Analysis, Economics, Actuarial Science, and Finance 
-- 🌱 I’m currently learning Python, MATLAB, and GAUSS
+- 👀 I’m interested in Data Analysis, Economics, and Statistics 
+- 🌱 I’m currently learning Python, R, MATLAB and Stata
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me alexanderlago11@gmail.com
 
